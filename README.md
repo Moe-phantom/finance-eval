@@ -1,4 +1,4 @@
-# Finance vertical — evaluation harness (v2)
+# Finance vertical | evaluation harness (v2)
 
 **What this does.** Provides automated checks and explicit assertions for common
 sources of leakage, and dependence-aware inference for directional accuracy claims.
